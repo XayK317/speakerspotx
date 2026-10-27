@@ -1,7 +1,7 @@
 .speaker-card {
   width: min(100%, 450px);
   padding: 2rem;
-  color: #f8fafc;
+  color: #f8f3e7;
   text-align: center;
   background: var(--surface);
   border: 1px solid var(--border);
@@ -15,7 +15,7 @@
   height: 140px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid #0ea5e9;
+  border: 3px solid var(--accent);
   margin-bottom: 1rem;
 }
 
@@ -39,14 +39,14 @@
 .talk-summary {
   font-size: 0.95rem;
   line-height: 1.5;
-  color: #cbd5e1;
+  color: #e2d7ba;
   margin: 0 0 1.5rem;
 }
 
 .topic-list-container {
   text-align: left;
   padding: 1rem;
-  background: #0f172a;
+  background: var(--background);
   border-radius: 8px;
 }
 
