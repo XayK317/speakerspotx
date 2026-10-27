@@ -24,7 +24,7 @@ export default function App() {
     <div className="app-container">
       <header className="event-header">
         <h1>Circle City Dev Night</h1>
-        <p>Tuesday, October 27, 2026 | Event Room at the JW Marriott, Indianapolis</p>
+        <p>Tuesday, October 27, 2026 at 2pm | Conference Room A at the JW Marriott, Indianapolis</p>
       </header>
 
       <main className="speakers-grid">
