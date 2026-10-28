@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function TopicList({ topics }) {
   return (
     <div className="topic-list-container">
