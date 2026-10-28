@@ -1,3 +1,4 @@
+import React from 'react';
 import TopicList from './TopicList';
 import './SpeakerCard.css';
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import SpeakerCard from './components/SpeakerCard';
 import './App.css';
 
