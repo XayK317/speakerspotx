@@ -25,3 +25,4 @@ Developed as part of **NEwm N317**, this application transitions from plain Java
 * **Vite** (Frontend build toolchain)
 * **CSS3** (Custom styling and layout design)
 * **Netlify** (Static site hosting and deployment)
+https://deploy-preview-1--subtle-melba-b70e72.netlify.app/
